@@ -2,7 +2,7 @@
   "name": "react-virtualized",
   "author": "Harpal Sharma",
   "version": "1.0.0",
-  "description": "Project to description load large amount of data using react virtualized",
+  "description": "Project to load large amount of data using react virtualized",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",

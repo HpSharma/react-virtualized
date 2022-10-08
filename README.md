@@ -1,6 +1,6 @@
 # Getting Started with Reactjs
 
-This project is for statestreet.
+Project to load large amount of data using react virtualized.
 
 ## Available Scripts
 
